@@ -9,4 +9,5 @@ This project will be ongoing; I am excited to learn kubernetes and how it can po
  - yaml files are key
 - Get gitops going
 - Figure out vault environment variables
--  
+- https://hub.docker.com/r/atmoz/sftp/
+
